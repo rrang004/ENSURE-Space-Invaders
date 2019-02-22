@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1461470239 source:c:\users\richard\desktop\space invaders\spaceinvaders\main.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<conio.h>
+	<limits>
+	<stdexcept>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<list>
+	<sstream>
+	<string>
+
